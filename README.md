@@ -1,29 +1,21 @@
-# This is a large heading
+# Abdulla abdul azeez
 
-## This is a smaller heading
+![this is an image.](https://avatars.githubusercontent.com/u/86544559)
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+#### Geography
 
-- This is
-- an unordered
-- list
+I live in the city of Kannur, in the state of Kerala, in the India.
 
-1. This is
-2. an ordered
-3. list
+#### Education 
 
-Here is `some code` in the middle of a sentence.
+completed *Higher secoundary* in **GHSS Pallikunnu** 
+currently studying in **Sir Syed Institute Taliparamba** for *BSC computer science*. 
 
-```
-This is
-a block
-of code
-```
+#### contact
 
-Here is how you make [a link](https://www.wikipedia.org/).
+The best way to get in touch with me is [on LinkedIn](https://www.linkedin.com/in/abdulla-abdul-azeez-983a57215/).
+[Instagram](https://www.instagram.com/xbdu_._/).
+[twitter](https://twitter.com/Abdulla102001). 
+ 
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
 
