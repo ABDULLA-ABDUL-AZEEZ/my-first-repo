@@ -13,6 +13,9 @@ currently studying in **Sir Syed Institute Taliparamba** for *BSC computer scien
 
 #### contact
 
-The best way to get in touch with me is [on Instagram](https://www.instagram.com/xbdu_._/). 
+The best way to get in touch with me is [on LinkedIn](https://www.linkedin.com/in/abdulla-abdul-azeez-983a57215/).
+[Instagram](https://www.instagram.com/xbdu_._/).
+[twitter](https://twitter.com/Abdulla102001). 
+ 
 
 
